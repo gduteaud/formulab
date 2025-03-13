@@ -1,6 +1,8 @@
 # Formulab
 A simple F1 fantasy team builder
 
+Try it out here: https://formulab.streamlit.app/
+
 As a Formula 1 fan and data science nerd, when the time came to put together my team for this year's fantasy league, I wrote some code in a Jupyter notebook to run a few numbers and get a sense of what combinations of drivers and teams are possible and how they might perform.
 
 It occured to me that other people might find that useful, so I turned that notebook into a simple Streamlit app. Enjoy!
